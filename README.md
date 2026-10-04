@@ -2,6 +2,8 @@
 
 > 官网：**[neko77.best](https://neko77.best)**　｜　最新地址发布页：**[AntDark.org](https://antdark.org)**　｜　教程站：**[catcat7.com](https://catcat7.com)**
 >
+> 📡 家宽节点实时在线状态：**[家宽探针](https://catcat7.com/status/)**（AT&T · Cox · Verizon · NTT 家宽，24 小时在线率）
+>
 > 最后更新 **2026-10-01**。价格、节点以面板购买页为准。
 
 ⚠️ **谨防仿冒**：请认准官方永久域名 **[neko77.best](https://neko77.best)** 和官方 TG 群 **[@meosonet](https://t.me/meosonet)**。网上有多个冒用「猫七七」名字的网站，都不是我们。官方网址只有本页列出的这几个。
