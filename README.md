@@ -136,7 +136,7 @@
 - `『电信』『CMI移动』『CN2』` = 为对应运营商优化的入口，按自己的宽带选
 - 名字末尾的 `1x / 2x …` = 倍率
 
-**🤖 AI 分流已设置**：Grok、Claude、ChatGPT 会自动走「AI」分组里的节点，不用手动切换。
+**🤖 AI 分流已设置**：Grok、Claude、ChatGPT 会自动走「Claude & ChatGPT & Grok」分组里的节点，不用手动切换。
 
 但是经常用 AI 的话，强烈建议：
 
