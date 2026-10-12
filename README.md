@@ -196,6 +196,8 @@
 - 建议用 [https://lycorisveil.sbs/music/convert](https://lycorisveil.sbs/music/convert) 把订阅链接转成「防泄漏版」再导入；
 - 安卓用户看 [这篇](https://catcat7.com/android-privacy/)。
 
+**想自己搭一条 M协议（mieru）线路自用**：看 [mieru 个人自建教程](https://github.com/RiceBlack67/mieru-tutorial)，一条命令装好服务端，导入 Clash Verge 或小火箭就能用。
+
 ---
 
 ## 7. 永久网址 neko77.best 不会变，会变的只是「国内临时网址」
