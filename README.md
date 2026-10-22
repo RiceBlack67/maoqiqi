@@ -1,8 +1,13 @@
 # 猫七七机场官网 · 貓七七官方介绍
 
+> [!IMPORTANT]
+> 🍊 家宽防滥用『禁止行为 & 违规处理』：[查看全文](https://github.com/RiceBlack67/maoqiqi/discussions/1)
+
 > 官网：**[neko77.best](https://neko77.best)**　｜　最新地址发布页：**[AntDark.org](https://antdark.org)**　｜　教程站：**[catcat7.com](https://catcat7.com)**
 >
 > 📡 家宽节点实时在线状态：**[家宽探针](https://catcat7.com/status/)**（AT&T · Cox · Verizon · NTT 家宽，24 小时在线率）
+>
+> 💬 用过的说说体验：**[使用反馈](https://github.com/RiceBlack67/maoqiqi/discussions/2)**（好的坏的都可以写，差评不删）
 >
 > 最后更新 **2026-10-11**。价格、节点以面板购买页为准。
 
@@ -272,6 +277,7 @@
 - TG 交流群：[@meosonet](https://t.me/meosonet)
 - 人工客服 TG：@vflower99
 - 邮箱：catcheese77@gmail.com
+- 公开反馈 / 评价：[使用反馈](https://github.com/RiceBlack67/maoqiqi/discussions/2)
 
 ---
 
